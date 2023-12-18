@@ -1,0 +1,8 @@
+streamlit
+wordcloud
+matplotlib
+seaborn
+pandas
+koreanize_matplotlib
+openai==0.28.1
+st-pages
